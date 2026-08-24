@@ -1,4 +1,4 @@
-点击右边的 Release 下载文件
+点击右边（电脑、ipad等）或下面（手机）的 Release 下载文件
 
 
 ## Contributors
